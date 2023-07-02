@@ -1,7 +1,7 @@
 # Welcome 👋
 
 
-## Profile 🙋‍♂️
+## Profile 😉
 
 * 수성고등학교 2015.03 - 2018.02
   

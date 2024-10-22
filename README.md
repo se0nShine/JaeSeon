@@ -27,5 +27,5 @@
 ![차량회피_2 (1)](https://github.com/user-attachments/assets/f837f622-bbb3-4fe6-ba44-ab639d43e206)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={se0nShine})
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se0nShine)](https://github.com/anuraghazra/github-readme-stats)
 [![Jaeseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0nShine)](https://github.com/anuraghazra/github-readme-stats)

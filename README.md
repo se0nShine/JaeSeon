@@ -20,12 +20,12 @@
 
 ## What I Do
 
-* 2024 자율주행 경진대회 CARLA simulator + Autoware를 이용한 Planning
+* 2024 자율주행 경진대회 CARLA + Autoware를 이용한 Planning simulation
 
+90km/h 에서 차량 회피하는 영상
 ![차량회피1 (1)](https://github.com/user-attachments/assets/5bdcb73e-60ac-4e53-bd1d-330d8cb1e2c2)
 
+차량 회피시 주변 차량 감지하면서 회피하는 영상
 ![차량회피_2 (1)](https://github.com/user-attachments/assets/f837f622-bbb3-4fe6-ba44-ab639d43e206)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se0nShine)](https://github.com/anuraghazra/github-readme-stats)
 [![Jaeseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0nShine)](https://github.com/anuraghazra/github-readme-stats)

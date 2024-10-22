@@ -18,3 +18,11 @@
 
 * 제20회 임베디드 소프트웨어 경진대회 (지능형휴머노이드 부문) 최우수상 2022.12
 
+## What I Do
+
+* 2024 자율주행 경진대회 CARLA simulator + Autoware를 이용한 Planning
+
+![차량회피1 (1)](https://github.com/user-attachments/assets/5bdcb73e-60ac-4e53-bd1d-330d8cb1e2c2)
+
+![차량회피_2 (1)](https://github.com/user-attachments/assets/f837f622-bbb3-4fe6-ba44-ab639d43e206)
+

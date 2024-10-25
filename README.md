@@ -17,15 +17,18 @@
 ## Awards 🏅
 
 * 제20회 임베디드 소프트웨어 경진대회 (지능형휴머노이드 부문) 최우수상 2022.12
+* 2024 전자정보 공학부 졸업작품 경진대회 학부장상 2024.10
 
-## What I Do
+## What I Do Recently
 
 * 2024 자율주행 경진대회 CARLA + Autoware를 이용한 Planning simulation
 
-90km/h 에서 차량 회피하는 영상
+90km/h 에서 차량 회피하는 영상  
+
 ![차량회피1 (1)](https://github.com/user-attachments/assets/5bdcb73e-60ac-4e53-bd1d-330d8cb1e2c2)
 
-차량 회피시 주변 차량 감지하면서 회피하는 영상
+차량 회피시 주변 차량 감지하면서 회피하는 영상  
+
 ![차량회피_2 (1)](https://github.com/user-attachments/assets/f837f622-bbb3-4fe6-ba44-ab639d43e206)
 
 [![Jaeseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0nShine)](https://github.com/anuraghazra/github-readme-stats)
